@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm John Beshay 👋</h1>
 
 <p align="center">
@@ -50,4 +50,4 @@ I created this GitHub profile to serve as a central place for my **projects, tec
 <p align="center">
   Thanks for stopping by!
 </p>
-```
+
