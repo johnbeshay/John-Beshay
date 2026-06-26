@@ -22,7 +22,7 @@ I created this GitHub profile to serve as a central place for my **projects, tec
 
 - Software Development  
 - AI Engineering  
-- Data Structures & Algorithms  
+- Machine Learning
 - Systems Programming  
 - Web Development  
 
